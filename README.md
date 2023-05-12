@@ -2,10 +2,10 @@ Dear sir/madam,
 
 I have completed Project 1 as requested.
 
-Link web deploy: 
-    http://blog-devops.s3.amazonaws.com/index.html
-    http://blog-devops.s3-website-us-east-1.amazonaws.com
-    https://d3rvlzucfwm9c8.cloudfront.net
+Link web deploy:
+    link 1: http://blog-devops.s3.amazonaws.com/index.html
+    link 2: http://blog-devops.s3-website-us-east-1.amazonaws.com
+    link 3: https://d3rvlzucfwm9c8.cloudfront.net
 
 Link file review:
     https://blog-devops.s3.amazonaws.com/EvidenWeb/CloudDevOpsEngineer-Project_1-Review.pdf
