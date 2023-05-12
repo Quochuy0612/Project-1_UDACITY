@@ -13,6 +13,14 @@ Link web deploy:
 Link file review: 
 
 	https://blog-devops.s3.amazonaws.com/EvidenWeb/CloudDevOpsEngineer-Project_1-Review.pdf
+	
+Link github: 
+
+	https://github.com/Quochuy0612/Project-1_UDACITY
+
+Link github project web static:
+
+	https://github.com/Quochuy0612/Project-1_UDACITY/tree/master
 
 All files including images are uploaded to S3 Buckets
 
